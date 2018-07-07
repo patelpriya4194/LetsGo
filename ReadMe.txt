@@ -1,0 +1,1 @@
+Lets go is an application for a person who want to create an event and want to invite his friends to participate into that event.
